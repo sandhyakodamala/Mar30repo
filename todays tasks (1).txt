@@ -1,0 +1,17 @@
+Todays tasks:
+
+
+1. create a folder path called (folder1/folder2/folder3)
+mkdir folder1
+ll
+cd folder1
+mkdir folder2
+cd folder2
+  mkdir folder3
+
+
+2. now create a file called devops on folder3
+
+
+
+touch devops
